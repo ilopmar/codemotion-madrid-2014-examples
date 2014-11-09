@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+application:
+  name: 'Codemotion 2014'
+  version: '1.0'

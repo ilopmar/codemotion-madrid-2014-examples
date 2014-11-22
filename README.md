@@ -44,6 +44,6 @@ A very simple API demo app using Spring Boot and Gradle. Execute it with
 gradle bootRun
 ```
 
-The slides of the talk are available at [slideshare](http://www.slideshare.net/ilopmar/codemotion-2014-spring-ha-muerto-larga-vida-a-spring-boot).
+The slides of the talk are available at [slideshare](http://www.slideshare.net/ilopmar/spring-ha-muerto-larga-vida-a-spring-boot).
 
 You can contact me at lopez.ivan@gmail.com or via twitter [@ilopmar](https://twitter.com/ilopmar)
